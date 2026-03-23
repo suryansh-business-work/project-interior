@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+uploads/
+ml/models/*.pth
+ml/models/*.png
+*.egg-info/
+.DS_Store
+Thumbs.db
